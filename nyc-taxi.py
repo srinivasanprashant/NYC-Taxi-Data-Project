@@ -20,4 +20,4 @@ for row in taxi_list:
     converted_taxi_list.append(converted_row)
 
 taxi = np.array(converted_taxi_list)
-print(type(taxi))
+print(taxi)
